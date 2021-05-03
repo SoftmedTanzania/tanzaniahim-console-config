@@ -66,12 +66,12 @@
         "enableBasicAuthentication": true
     },
     "email": {
-        "fromAddress": "tanzaniahim@gmail.com",
+        "fromAddress": "xxxxxxx@gmail.com",
         "nodemailer": {
             "service": "Gmail",
             "auth": {
-                "user": "tanzaniahim@gmail.com",
-                "pass": "HimTZ2021."
+                "user": "xxxxxxxxx@gmail.com",
+                "pass": "xxxxxxxxx"
             }
         }
     },
