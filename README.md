@@ -1,2 +1,2 @@
-# tanzaniahim-console-config
-Config and resourse files for Tanzania HIM
+# tanzaniahim-resources-and-configs
+Configs and resourse files for Tanzania HIM
